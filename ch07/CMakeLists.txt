@@ -1,0 +1,5 @@
+add_executable(bits bits.s)
+add_executable(bits2 bits2.s)
+add_executable(bits3 bits3.s)
+add_executable(bits4 bits4.s)
+add_executable(rotate rotate.s)
